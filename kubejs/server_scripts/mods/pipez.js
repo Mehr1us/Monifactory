@@ -143,7 +143,7 @@ ServerEvents.recipes(event => {
         "DS",
         "SP"
     ], {
-        P: "#forge:paper",
+        P: "#forge:plates/paper",
         D: "gtceu:computer_monitor_cover",
         S: "#forge:screws/iron",
     }).id("pipez:filter_destination_tool")
